@@ -259,7 +259,6 @@ font-size: 30px;
     padding: 10px;
 }
 .mainnav a:hover,.quicklinks a:hover,.infofor a:hover{
-   text-decoration: underline;
    color:white;
 }
 .mainnav{
